@@ -33,6 +33,7 @@
 
 ```bash
 https://github.com/srijathota114/Smart-Reader.git
+---
 
 ## 🧪 How It Works
 
