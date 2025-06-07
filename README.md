@@ -32,7 +32,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/smart-reader-blind.git
+https://github.com/srijathota114/Smart-Reader.git
 
 ## 🧪 How It Works
 
