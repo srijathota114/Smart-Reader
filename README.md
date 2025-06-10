@@ -35,7 +35,7 @@ Clone this repository:
 git clone https://github.com/srijathota114/Smart-Reader.git
 
 
-# 🧪 How It Works
+## 🧪 How It Works
 Capture Image – User captures text using the phone camera.
 
 Extract Text – OCR processes the image and extracts readable text.
@@ -44,7 +44,7 @@ Speak Out – The app reads the text aloud using TTS.
 
 Optional Translation – If enabled, text is translated before being spoken.
 
-# 🔒 Permissions Required
+## 🔒 Permissions Required
 CAMERA – To capture images of text
 
 INTERNET – For cloud-based OCR/translation (if used)
@@ -53,12 +53,8 @@ RECORD_AUDIO – For voice command support
 
 READ_EXTERNAL_STORAGE – For loading images (optional)
 
-# Installation
-Clone this repository:
-https://github.com/srijathota114/Smart-Reader.git
----
 
-# 🧠 Future Enhancements
+## 🧠 Future Enhancements
 Braille display integration
 
 Offline OCR and TTS
@@ -67,10 +63,10 @@ Real-time scene description
 
 Voice-controlled navigation
 
-# 📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-# 🙌 Acknowledgements
+## 🙌 Acknowledgements
 Google ML Kit
 
 Tesseract OCR
